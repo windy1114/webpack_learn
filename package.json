@@ -1,0 +1,23 @@
+{
+  "name": "webpack_learn",
+  "version": "1.0.0",
+  "description": "webpack是一个模块打包器。一个模块加载工具，任何资源包括js,css,图片都成独立的模块来处理。 Webpack的工作方式是：把你的项目当做一个整体，通过一个给定的主文件（如：index.js），Webpack将从这个文件开始找到你的项目的所有依赖文件，使用loaders处理它们，最后打包为一个浏览器可识别的JavaScript文件。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --config webpack.config.js --progress --display-modules --colors --display-reasons"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windy1114/webpack_learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/windy1114/webpack_learn/issues"
+  },
+  "homepage": "https://github.com/windy1114/webpack_learn#readme",
+  "devDependencies": {
+    "webpack": "^2.3.2"
+  }
+}
