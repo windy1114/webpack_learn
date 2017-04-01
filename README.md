@@ -52,7 +52,14 @@ npm install webpack --save-dev  #讲webpack的依赖写进package.json文件中
 `
 就可以启动webpack
 
-
+http://www.w2bc.com/Article/50764
+https://github.com/wangning0/Autumn_Ning_Blog/blob/master/blogs/3-12/webpack.md
+http://mlxiao.com/2017/02/08/webpack/#配置production环境
+https://github.com/slashhuang/blog/issues/1
+http://www.jianshu.com/p/42e11515c10f#
+https://zhuanlan.zhihu.com/p/20367175
+https://segmentfault.com/a/1190000006740936
+http://www.w2bc.com/Article/50764
 
 
 
